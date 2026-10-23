@@ -6,9 +6,6 @@
 # `artifact-name` to assign a name to distinguish build outputs from each other:
 #
 ---
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  
 include:
   - board: sofle_choc_pro_left
     shield: settings_reset
